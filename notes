@@ -1,0 +1,11 @@
+# src: https://www.youtube.com/watch?v=PtQiiknWUcI&t=1301s&ab_channel=TraversyMedia
+1. clone full project for reference: `git clone https://github.com/divanov11/StudyBud.git` 
+2. create virtual env: `python -m venv venv`
+3. start your virtual env: `source venv/bin/activate`
+4. install django: pip install django
+5. run `django-admin`
+6. get boilerplate for my project: `django-admin startproject <project_name>` -> project folder will be created
+7. `cd <project_name>`
+8. start django dev server: `python manage.py runserver`
+9. create a app using django: `python manage.py startapp <app_name>` -> base folder will be created
+10. django template engine
